@@ -1,14 +1,6 @@
 <template>
-    <section class="homePage">
-        <div ref="top" class="top">
-            <h1>Index</h1>
-            <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-            <br /><br /><br /><br /><br /><br /><br /><br /><br />
-            <h1>Index</h1>
-        </div>
-    </section>
+    <div>about</div>
 </template>
-
 <script>
 // import transform from 'dom-transform'
 import emitter from '~/assets/js/events/EventsEmitter'
@@ -34,7 +26,5 @@ export default {
     }
 }
 </script>
-<style lang="scss">
-.homePage {
-}
-</style>
+
+<style></style>
